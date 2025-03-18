@@ -16,6 +16,7 @@
             <li>Traveling</li>
             <li>Gaming</li>
         </ul>
+        <img src="C:\Users\hp\Desktop\rahul/ gheek\javascript\new/ model\yesno\excited.gif">
         <h2>My Skills</h2>
         <ul>
             <li>Web Development</li>
