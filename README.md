@@ -8,7 +8,7 @@
     <div class="container">
         <h1>About Me</h1>
         <h2>Introduction</h2>
-        <p>Hi! I'm [Your Name], passionate about technology and creativity.</p>
+        <p>Hi! I'm Rahul Gheek, passionate about technology and creativity.</p>
         <h2>My Hobbies</h2>
         <ul>
             <li>Coding</li>
