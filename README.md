@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Sample Webpage</title>
     <style>
         body {
             font-family: Arial, sans-serif;
